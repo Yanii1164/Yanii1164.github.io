@@ -4,6 +4,7 @@
 }
 
 body {
+  background-image: url("back.png");
   font-family: YuGothic, "游ゴシック", "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", sans-serif;
   background-color: #ddd;
   font-size: 14px;
@@ -14,7 +15,6 @@ span.red {
 }
 
 header {
-  background-image: url("back.png");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
